@@ -17,17 +17,11 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
         }
 
-        for(int i=0;i<=1;i++){
-            Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
-        }
-        
-         for(int i=0;i<=1;i++){
-            Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
-        }
-        
-         for(int i=0;i<=1;i++){
-            Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
-        }
-       //completed in gilab side changes editing
+        Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
+
+        Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
+       //completed in Github side changes editing
     }
 }
