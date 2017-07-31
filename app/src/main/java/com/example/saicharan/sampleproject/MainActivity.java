@@ -20,8 +20,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
         Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
 
-        Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
-        Toast.makeText(getApplicationContext(),"Toast",Toast.LENGTH_LONG).show();
+
        //completed in Github side changes editing
     }
 }
